@@ -6,6 +6,6 @@
 <h2> Marathi Project</h2>
 </style>
 </head>
-<img src="https://github.com/Riya-Deore/RiyaDeore_6A_IP2024/blob/main/Marathi Project Page.jpg">
+<a href="https://github.com/Riya-Deore/RiyaDeore_6A_IP2024/blob/main/Marathi Project Page.jpg">
 </body>
 </html>
